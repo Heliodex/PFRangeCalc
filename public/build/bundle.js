@@ -374,7 +374,7 @@ var app = (function () {
     			p = element("p");
     			p.textContent = "Please fill in all values";
     			attr_dev(p, "class", "answer svelte-1q05zo3");
-    			add_location(p, file, 173, 2, 4014);
+    			add_location(p, file, 173, 2, 4075);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, p, anchor);
@@ -470,7 +470,7 @@ var app = (function () {
     			t3 = text(/*final*/ ctx[7]);
     			t4 = text(" studs");
     			attr_dev(p, "class", "answer svelte-1q05zo3");
-    			add_location(p, file, 168, 5, 3907);
+    			add_location(p, file, 168, 5, 3968);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, p, anchor);
@@ -514,7 +514,7 @@ var app = (function () {
     			t1 = text(/*finalDamage*/ ctx[8]);
     			t2 = text(" damage all ranges");
     			attr_dev(p, "class", "answer svelte-1q05zo3");
-    			add_location(p, file, 166, 5, 3830);
+    			add_location(p, file, 166, 5, 3891);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, p, anchor);
@@ -559,7 +559,7 @@ var app = (function () {
     			t3 = text(/*final*/ ctx[7]);
     			t4 = text(" studs");
     			attr_dev(p, "class", "answer svelte-1q05zo3");
-    			add_location(p, file, 164, 5, 3716);
+    			add_location(p, file, 164, 5, 3777);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, p, anchor);
@@ -603,7 +603,7 @@ var app = (function () {
     			t1 = text(/*finalDamage*/ ctx[8]);
     			t2 = text(" damage all ranges");
     			attr_dev(p, "class", "answer svelte-1q05zo3");
-    			add_location(p, file, 161, 4, 3605);
+    			add_location(p, file, 161, 4, 3666);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, p, anchor);
@@ -646,7 +646,7 @@ var app = (function () {
     			t2 = text(" damage");
     			t3 = text(";");
     			attr_dev(p, "class", "answer svelte-1q05zo3");
-    			add_location(p, file, 159, 4, 3495);
+    			add_location(p, file, 159, 4, 3556);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, p, anchor);
@@ -689,7 +689,7 @@ var app = (function () {
     			t1 = text(/*finalDamage*/ ctx[8]);
     			t2 = text(" damage all ranges");
     			attr_dev(p, "class", "answer svelte-1q05zo3");
-    			add_location(p, file, 156, 3, 3375);
+    			add_location(p, file, 156, 3, 3436);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, p, anchor);
@@ -730,7 +730,7 @@ var app = (function () {
     			t1 = text(/*finalDamage*/ ctx[8]);
     			t2 = text(" damage");
     			attr_dev(p, "class", "answer svelte-1q05zo3");
-    			add_location(p, file, 154, 3, 3215);
+    			add_location(p, file, 154, 3, 3276);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, p, anchor);
@@ -894,7 +894,7 @@ var app = (function () {
     			t26 = space();
     			div8 = element("div");
     			p7 = element("p");
-    			t27 = text("Version 2.0.1. Last updated 11th January 2022.");
+    			t27 = text("Version 2.0.2. Last updated 31 January 2022.");
     			br5 = element("br");
     			t28 = text("\n\t\tBuilt with Svelte. See the old version at: ");
     			a0 = element("a");
@@ -913,82 +913,82 @@ var app = (function () {
     			t35 = space();
     			div9 = element("div");
     			attr_dev(h1, "class", "title svelte-1q05zo3");
-    			add_location(h1, file, 116, 0, 1963);
-    			add_location(br0, file, 119, 96, 2107);
-    			add_location(br1, file, 120, 125, 2237);
+    			add_location(h1, file, 116, 0, 2024);
+    			add_location(br0, file, 119, 96, 2168);
+    			add_location(br1, file, 120, 125, 2298);
     			attr_dev(p0, "class", "svelte-1q05zo3");
-    			add_location(p0, file, 118, 0, 2007);
-    			add_location(br2, file, 123, 0, 2248);
+    			add_location(p0, file, 118, 0, 2068);
+    			add_location(br2, file, 123, 0, 2309);
     			attr_dev(p1, "class", "label svelte-1q05zo3");
-    			add_location(p1, file, 127, 3, 2319);
+    			add_location(p1, file, 127, 3, 2380);
     			attr_dev(input0, "type", "number");
     			attr_dev(input0, "class", "svelte-1q05zo3");
-    			add_location(input0, file, 128, 3, 2363);
+    			add_location(input0, file, 128, 3, 2424);
     			attr_dev(div0, "class", "value svelte-1q05zo3");
-    			add_location(div0, file, 126, 2, 2296);
+    			add_location(div0, file, 126, 2, 2357);
     			attr_dev(p2, "class", "label svelte-1q05zo3");
-    			add_location(p2, file, 131, 3, 2442);
+    			add_location(p2, file, 131, 3, 2503);
     			attr_dev(input1, "type", "number");
     			attr_dev(input1, "class", "svelte-1q05zo3");
-    			add_location(input1, file, 132, 3, 2485);
+    			add_location(input1, file, 132, 3, 2546);
     			attr_dev(div1, "class", "value svelte-1q05zo3");
-    			add_location(div1, file, 130, 2, 2419);
+    			add_location(div1, file, 130, 2, 2480);
     			attr_dev(p3, "class", "label svelte-1q05zo3");
-    			add_location(p3, file, 135, 3, 2562);
+    			add_location(p3, file, 135, 3, 2623);
     			attr_dev(input2, "type", "number");
     			attr_dev(input2, "class", "svelte-1q05zo3");
-    			add_location(input2, file, 136, 3, 2606);
+    			add_location(input2, file, 136, 3, 2667);
     			attr_dev(div2, "class", "value svelte-1q05zo3");
-    			add_location(div2, file, 134, 2, 2539);
+    			add_location(div2, file, 134, 2, 2600);
     			attr_dev(p4, "class", "label svelte-1q05zo3");
-    			add_location(p4, file, 139, 3, 2684);
+    			add_location(p4, file, 139, 3, 2745);
     			attr_dev(input3, "type", "number");
     			attr_dev(input3, "class", "svelte-1q05zo3");
-    			add_location(input3, file, 140, 3, 2729);
+    			add_location(input3, file, 140, 3, 2790);
     			attr_dev(div3, "class", "value svelte-1q05zo3");
-    			add_location(div3, file, 138, 2, 2661);
+    			add_location(div3, file, 138, 2, 2722);
     			attr_dev(p5, "class", "label svelte-1q05zo3");
-    			add_location(p5, file, 143, 3, 2805);
+    			add_location(p5, file, 143, 3, 2866);
     			attr_dev(input4, "type", "number");
     			attr_dev(input4, "class", "svelte-1q05zo3");
-    			add_location(input4, file, 144, 3, 2848);
+    			add_location(input4, file, 144, 3, 2909);
     			attr_dev(div4, "class", "value svelte-1q05zo3");
-    			add_location(div4, file, 142, 2, 2782);
+    			add_location(div4, file, 142, 2, 2843);
     			attr_dev(p6, "class", "label svelte-1q05zo3");
-    			add_location(p6, file, 147, 3, 2926);
+    			add_location(p6, file, 147, 3, 2987);
     			attr_dev(input5, "type", "number");
     			attr_dev(input5, "class", "svelte-1q05zo3");
-    			add_location(input5, file, 148, 3, 2966);
+    			add_location(input5, file, 148, 3, 3027);
     			attr_dev(div5, "class", "value svelte-1q05zo3");
-    			add_location(div5, file, 146, 2, 2903);
+    			add_location(div5, file, 146, 2, 2964);
     			attr_dev(div6, "class", "values svelte-1q05zo3");
-    			add_location(div6, file, 125, 1, 2273);
+    			add_location(div6, file, 125, 1, 2334);
     			attr_dev(div7, "class", "main svelte-1q05zo3");
-    			add_location(div7, file, 124, 0, 2253);
-    			add_location(br3, file, 177, 0, 4078);
-    			add_location(br4, file, 180, 1, 4094);
-    			add_location(br5, file, 183, 48, 4175);
+    			add_location(div7, file, 124, 0, 2314);
+    			add_location(br3, file, 177, 0, 4139);
+    			add_location(br4, file, 180, 1, 4155);
+    			add_location(br5, file, 183, 46, 4234);
     			attr_dev(a0, "href", "https://oldpfcalc.heliodex.cf/");
     			attr_dev(a0, "class", "svelte-1q05zo3");
-    			add_location(a0, file, 184, 45, 4225);
-    			add_location(br6, file, 184, 111, 4291);
+    			add_location(a0, file, 184, 45, 4284);
+    			add_location(br6, file, 184, 111, 4350);
     			attr_dev(a1, "href", "https://github.com/Heliodex/PFRangeCalc");
     			attr_dev(a1, "class", "svelte-1q05zo3");
-    			add_location(a1, file, 185, 37, 4333);
-    			add_location(br7, file, 185, 130, 4426);
+    			add_location(a1, file, 185, 37, 4392);
+    			add_location(br7, file, 185, 130, 4485);
     			attr_dev(a2, "href", "https://heliodex.cf/");
     			attr_dev(a2, "class", "svelte-1q05zo3");
-    			add_location(a2, file, 186, 14, 4445);
-    			add_location(br8, file, 186, 60, 4491);
-    			add_location(br9, file, 187, 64, 4560);
+    			add_location(a2, file, 186, 14, 4504);
+    			add_location(br8, file, 186, 60, 4550);
+    			add_location(br9, file, 187, 64, 4619);
     			attr_dev(p7, "class", "svelte-1q05zo3");
-    			add_location(p7, file, 182, 2, 4123);
+    			add_location(p7, file, 182, 2, 4184);
     			attr_dev(div8, "class", "footer");
-    			add_location(div8, file, 181, 1, 4100);
+    			add_location(div8, file, 181, 1, 4161);
     			attr_dev(footer, "class", "svelte-1q05zo3");
-    			add_location(footer, file, 179, 0, 4084);
+    			add_location(footer, file, 179, 0, 4145);
     			attr_dev(div9, "class", "body svelte-1q05zo3");
-    			add_location(div9, file, 192, 0, 4591);
+    			add_location(div9, file, 192, 0, 4650);
     		},
     		l: function claim(nodes) {
     			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
@@ -1236,7 +1236,7 @@ var app = (function () {
     		}
 
     		if ($$self.$$.dirty & /*damageToFind*/ 32) {
-    			$$invalidate(8, finalDamage = parseFloat(damageToFind.toFixed(2)));
+    			$$invalidate(8, finalDamage = parseFloat((damageToFind || 0).toFixed(2))); // || 0 is fix for app crashing if damageToFind is null
     		}
     	};
 

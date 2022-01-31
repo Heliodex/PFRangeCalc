@@ -10,7 +10,7 @@
 
 	$: opt = (closeRange + ((closeDamage - damageToFind / multiplier) / (closeDamage - farDamage)) * (farRange - closeRange));
 	$: final = parseFloat(opt.toFixed(2));
-	$: finalDamage = parseFloat((damageToFind).toFixed(2));
+	$: finalDamage = parseFloat((damageToFind || 0).toFixed(2)); // || 0 is fix for app crashing if damageToFind is null
 </script>
 
 <style lang="sass">
@@ -180,7 +180,7 @@ Input the values for a gun, and the tool will calculate the damage dealt at a sp
 	<br>
 	<div class="footer">
 		<p>
-		Version 2.0.1. Last updated 11th January 2022.<br>
+		Version 2.0.2. Last updated 31 January 2022.<br>
 		Built with Svelte. See the old version at: <a href="https://oldpfcalc.heliodex.cf/">OldPFCalc.Heliodex.cf</a><br>
 		Made by Heliodex. See the code at: <a href="https://github.com/Heliodex/PFRangeCalc">https://GitHub.com/Heliodex/PFRangeCalc</a><br>
 		My website: <a href="https://heliodex.cf/">Heliodex.cf</a><br>
